@@ -1,0 +1,18 @@
+{
+  "name": "roya-mohammadsadegh-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Roya Mohammadsadegh academic website, built with Vite and npm.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
