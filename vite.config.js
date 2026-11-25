@@ -20,6 +20,7 @@ export default defineConfig({
         publication3: resolve(__dirname, 'publication/2015-10-01-paper-title-number-3/index.html'),
         publication4: resolve(__dirname, 'publication/2024-02-17-paper-title-number-4/index.html'),
         talkSne: resolve(__dirname, 'talks/2025-SNE/index.html'),
+        talkMma: resolve(__dirname, 'talks/2026-MMA/index.html'),
         notFound: resolve(__dirname, '404.html')
       }
     }
